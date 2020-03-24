@@ -4,7 +4,7 @@ Find links to the resources in the work files:
 - closure.js
 - context.js
 
-Find examples in the following files:
+Find examples on application of closures in the following files:
 - memo.js
 - compose.js 
 - module/
